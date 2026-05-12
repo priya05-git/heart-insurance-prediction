@@ -9,10 +9,6 @@ A machine learning project analyzing heart disease and insurance data to build p
 - **heart.csv** - Heart disease dataset
 - **insurance.csv** - Insurance dataset
 
-## Contributors
-
-- **Priya Bouri** (priyabouri47@gmail.com) - Main contributor
-
 ## About
 
 This project explores machine learning techniques for:
